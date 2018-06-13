@@ -1280,3 +1280,87 @@ Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8b
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-02-15 00:51:22 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-13 13:19:50 -0500
+Processing by SearchesController#search as HTML
+Redirected to https://fourquare.com/oauth2/authenticate?client_id=&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 39ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-13 13:33:36 -0500
+Processing by SearchesController#search as HTML
+Redirected to https://fourquare.com/oauth2/authenticate?client_id=&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 25ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-13 13:37:35 -0500
+Processing by SearchesController#search as HTML
+Redirected to https://fourquare.com/oauth2/authenticate?client_id=T3ZY0I3FFLP4YJIU4QWEZRZQNM3F11FJTZPSXEDP5F5IH4RJ&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 24ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-13 13:41:33 -0500
+Processing by SearchesController#search as HTML
+Redirected to https://fourquare.com/oauth2/authenticate?client_id=T3ZY0I3FFLP4YJIU4QWEZRZQNM3F11FJTZPSXEDP5F5IH4RJ&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-13 13:42:41 -0500
+Processing by SearchesController#search as HTML
+Redirected to https://fourquare.com/oauth2/authenticate?client_id=T3ZY0I3FFLP4YJIU4QWEZRZQNM3F11FJTZPSXEDP5F5IH4RJ&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 20ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-13 13:45:04 -0500
+Processing by SearchesController#search as HTML
+Redirected to https://fourquare.com/oauth2/authenticate?client_id=T3ZY0I3FFLP4YJIU4QWEZRZQNM3F11FJTZPSXEDP5F5IH4RJ&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-13 13:46:04 -0500
+Processing by SearchesController#search as HTML
+Redirected to https://fourquare.com/oauth2/authenticate?client_id=T3ZY0I3FFLP4YJIU4QWEZRZQNM3F11FJTZPSXEDP5F5IH4RJ&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-13 13:46:33 -0500
+Processing by SearchesController#search as HTML
+Redirected to https://fourquare.com/oauth2/authenticate?client_id=T3ZY0I3FFLP4YJIU4QWEZRZQNM3F11FJTZPSXEDP5F5IH4RJ&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-13 13:47:17 -0500
+Processing by SearchesController#search as HTML
+Redirected to https://fourquare.com/oauth2/authenticate?client_id=T3ZY0I3FFLP4YJIU4QWEZRZQNM3F11FJTZPSXEDP5F5IH4RJ&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-13 13:47:43 -0500
+Processing by SearchesController#search as HTML
+Redirected to https://fourquare.com/oauth2/authenticate?client_id=T3ZY0I3FFLP4YJIU4QWEZRZQNM3F11FJTZPSXEDP5F5IH4RJ&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 24ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-13 13:48:19 -0500
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-13 13:48:32 -0500
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
